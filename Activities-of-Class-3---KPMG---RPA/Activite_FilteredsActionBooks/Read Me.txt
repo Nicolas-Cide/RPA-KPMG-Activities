@@ -1,0 +1,1 @@
+Para probrar su funcionamiento, en la actividad WRITE RANGE, tiene que crear una carpeta que tenga una hoja excel para que pueda escribir los datos, debido a que no pude solucionar el problema para abrir la actividad SCOPE EXCEL.

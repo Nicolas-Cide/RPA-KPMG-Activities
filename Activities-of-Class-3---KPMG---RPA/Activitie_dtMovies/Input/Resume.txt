@@ -1,0 +1,13 @@
+Enunciado:
+------------
+Se extrajo un listado de peliculas de la platafora IMdb, este mismo se encuentra en un archivo Excel que debe ser:
+1. Filtrado por peliculas pertenecientes al año 2016
+2. Mantener solo las columnas "title", "release year", "ratingDescription"
+3. Tal listado debe ser pegado en un archivo excel de nombre "Movies.xlsx" con nombre de hoja "Movies2016"
+
+
+Obtendra puntos adicionales, si:
+1. Ordena de menor a mayor por la columna "ratingDescription"
+2. Filtra las peliculas (de 2016) con "ratingDescription" mayor a 100 que no contengan el signo "_" y copia este listado en una nueva hoja llamada "BestMovies"
+3. Utiliza buenas practicas
+
